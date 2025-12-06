@@ -43,4 +43,3 @@ ggplot(apples, aes(x = Sweetness, y = Acidity, color = Quality)) +
 ggsave("sweetness_acidity_scatter.png", width = 8, height = 6)
 
 -------------------------------------------------------------------------------------
-# graph 2 code here
